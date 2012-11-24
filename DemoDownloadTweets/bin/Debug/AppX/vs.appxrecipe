@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHILA</Machine>
+    <WindowsUser>Felix</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>61EE72BD0B3074FF4B3A8FC3911EA8F4BC5FF82861CE0C595D1EF2F3B1B6F214</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8f50d580-6d64-41a2-ba85-f2ab03a86ad1_1.0.0.0_neutral__x1c0ehdy3myjw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8f50d580-6d64-41a2-ba85-f2ab03a86ad1_x1c0ehdy3myjw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8f50d580-6d64-41a2-ba85-f2ab03a86ad1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Felix</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-11T12:54:04.406</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\DemoDownloadTweets.exe">
+      <PackagePath>DemoDownloadTweets.exe</PackagePath>
+      <Modified>2012-11-24T10:19:13.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\DemoDownloadTweets.pdb">
+      <PackagePath>DemoDownloadTweets.pdb</PackagePath>
+      <Modified>2012-11-24T10:19:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-03T14:32:20.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-03T10:12:21.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-11-06T20:27:42.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-11-03T10:12:21.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\ImprintPage.xaml">
+      <PackagePath>ImprintPage.xaml</PackagePath>
+      <Modified>2012-11-03T15:00:19.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-11-03T14:22:04.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Felix\Dropbox\Projects\Work\MSP\Windows 8 Coding Camps 2012\Tag 2\07 Windows 8 Features\C#\Tweeter_Empty\DemoDownloadTweets\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-11T12:54:04.203</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
